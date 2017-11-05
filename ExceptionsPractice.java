@@ -10,7 +10,7 @@ public class ExceptionsPractice {
 	//    either "add" "multiply" or "subtract." Return the proper result with the two ints. 
 	//    throw an UnsupportedOperationException if the string does not match a proper operation
 	
-	//4. create a mehtod that takes an ArrayList of strings and an int. The method will then print
+	//4. create a method that takes an ArrayList of strings and an int. The method will then print
 	//     all the objects from the list starting from the int. Throw an IndexOutOfBoundsException of
 	//     the list does not contain that element
 	
