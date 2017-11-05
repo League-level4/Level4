@@ -11,7 +11,7 @@ public class ExceptionsPractice {
 	//    throw an UnsupportedOperationException if the string does not match a proper operation
 	
 	//4. create a method that takes an ArrayList of strings and an int. The method will then print
-	//     all the objects from the list starting from the int. Throw an IndexOutOfBoundsException of
+	//     all the objects from the list starting from the int. Throw an IndexOutOfBoundsException if
 	//     the list does not contain that element
 	
 	//5. create a method that takes 2 ints and an ArrayList. This method will print the range of elements
